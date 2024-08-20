@@ -5,7 +5,6 @@ let result_s = SimpleMaths.subtract(10, 4);
 let result_sq = SimpleMaths.square(5);
 let result_re = SimpleMaths.remainder(10, 3);
 
-SimpleMaths.countTo(2);
 
 
 
