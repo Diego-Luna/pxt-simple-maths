@@ -84,3 +84,4 @@ To add this extension to your project in MakeCode, follow these steps:
 1. Open MakeCode in your browser.
 2. Click on "Extensions" in the menu.
 3. Enter the URL of this repository: https://github.com/your-username/simple-math.
+3. MoonMakers website: https://moonmakers.org/
