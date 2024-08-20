@@ -1,0 +1,26 @@
+{
+    "name": "simple-maths",
+    "version": "0.9.0",
+    "description": "Perform mathematical operations with Micro:bit, including calculating the square of a number or counting up to a specified number.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/multiplicar-strings.json",
+        "_locales/en/multiplicar-jsdoc-strings.json",
+        "_locales/es-ES/multiplicar-strings.json",
+        "_locales/es-ES/multiplicar-jsdoc-strings.json"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
