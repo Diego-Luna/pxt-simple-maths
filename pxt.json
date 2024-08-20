@@ -1,6 +1,6 @@
 {
     "name": "simple-maths",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Perform mathematical operations with Micro:bit, including calculating the square of a number or counting up to a specified number.",
     "license": "MIT",
     "dependencies": {
